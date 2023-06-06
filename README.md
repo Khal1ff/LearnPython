@@ -1,1 +1,2 @@
 # LearnPython
+belajar awal python
